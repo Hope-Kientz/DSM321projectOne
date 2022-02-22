@@ -9,6 +9,14 @@ body{
     background-color: aquamarine;
 }
 img{
+    display: block;
     max-width: 50%;
+    margin-left: auto;
+    margin-right: auto;
 
+}
+ul{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(1, 25, 235);
 }
