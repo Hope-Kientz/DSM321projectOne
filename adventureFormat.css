@@ -1,4 +1,5 @@
-p{
+body{
+    p{
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
     font-size: larger;
@@ -10,4 +11,5 @@ body{
 ul{
     background-color: aquamarine;
     opacity: 0.6;
+}
 }
