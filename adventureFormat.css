@@ -8,3 +8,7 @@ p{
 body{
     background-color: aquamarine;
 }
+img{
+    max-width: 50%;
+
+}
